@@ -1,0 +1,7 @@
+git add .
+git commit -m "Your Message"
+git remote add origin https://github.com/itzAk27/NodeJs.git
+git branch -M main
+git push -u origin main
+
+

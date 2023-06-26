@@ -1,0 +1,9 @@
+on - listen for an event
+emit - emit an event
+
+Order is important in Events
+first "on" then "emit"
+
+Note : 
+first Listen an event i.e .on
+then emit a event i.e .emit

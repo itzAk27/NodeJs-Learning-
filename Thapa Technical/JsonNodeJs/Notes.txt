@@ -1,0 +1,7 @@
+There are two methods in JSON
+
+Parse and stringify
+
+stringify : Conversion of Object to JSON
+
+Parse : Conversion of JSON to Object

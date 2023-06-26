@@ -1,0 +1,21 @@
+npm init (sab details fill krna padega)
+
+npm init -y (sab Questions skip ho jayege)
+
+.gitignore file : ignores the folder means like hame node_modules folder hamare repo me nahi dalna hai because of it's big size so hum usse push krte waqt ignore krege simple.
+
+freecodecamp tutorial on nodejs and express after or start of NPM Sections all the info is very informative....!!!
+
+After clone any project from github. In that project there is no node_modules folder so we have to import those modules we have to only write "npm install" all the modules will be installed in the project because the package.json file contains those modules and pakages.
+
+We use dev dependencies because while deploying the project there are some modules which does not need it is only used for developing purpose only.
+npm i nodemon 
+npm i nodemon -D
+
+Role of scripts in package.json?
+npm run dev
+npm start
+npm run
+
+
+whenever you make any changes in app then nodemon restarts the project or app or what we say it basically refresh the projects after you save the changes.
